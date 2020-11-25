@@ -10,6 +10,7 @@ namespace Cas25
     {
         static void Main(string[] args)
         {
+            // Izmena
         }
     }
 }
